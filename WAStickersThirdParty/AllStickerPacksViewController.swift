@@ -38,38 +38,50 @@ class AllStickerPacksViewController: UIViewController {
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         if needsFetchStickerPacks {
-            let alert: UIAlertController = UIAlertController(title: "Don't ship this sample app!", message: "If you want to ship your sticker packs to the App Store, create your own app with its own user interface. Your app must have minimum to no resemblance to this sample app.", preferredStyle: .alert)
-            alert.addAction(UIAlertAction(title: "OK", style: .cancel, handler: { action in
-                self.needsFetchStickerPacks = false
-                self.fetchStickerPacks()
-            }))
-            present(alert, animated: true)
+            needsFetchStickerPacks = false
+            fetchStickerPacks()
         }
     }
 
+    /// Web-driven load: pulls the pack catalogue + sticker bytes from the hosted
+    /// index at runtime (network first, on-disk cache fallback for offline).
     private func fetchStickerPacks() {
         let loadingAlert = UIAlertController(title: "Loading sticker packs", message: "\n\n", preferredStyle: .alert)
         loadingAlert.addSpinner()
         present(loadingAlert, animated: true)
 
-        do {
-            try StickerPackManager.fetchStickerPacks(fromJSON: StickerPackManager.stickersJSON(contentsOfFile: "sticker_packs")) { stickerPacks in
-                loadingAlert.dismiss(animated: false) {
-                    self.navigationController?.navigationBar.alpha = 1.0
+        RemoteStickerLoader.shared.loadPacks { [weak self] result in
+            guard let self = self else { return }
+            loadingAlert.dismiss(animated: false) {
+                self.navigationController?.navigationBar.alpha = 1.0
 
+                switch result {
+                case .success(let stickerPacks):
                     if stickerPacks.count > 1 {
                         self.stickerPacks = stickerPacks
                         self.stickerPacksTableView.reloadData()
-                    } else {
-                        self.show(stickerPack: stickerPacks[0], animated: false)
+                    } else if let only = stickerPacks.first {
+                        self.stickerPacks = stickerPacks
+                        self.show(stickerPack: only, animated: false)
                     }
+                case .failure(let error):
+                    self.presentLoadError(error)
                 }
             }
-        } catch StickerPackError.fileNotFound {
-            fatalError("sticker_packs.wasticker not found.")
-        } catch {
-            fatalError(error.localizedDescription)
         }
+    }
+
+    private func presentLoadError(_ error: Error) {
+        let alert = UIAlertController(
+            title: "Couldn't load stickers",
+            message: error.localizedDescription,
+            preferredStyle: .alert
+        )
+        alert.addAction(UIAlertAction(title: "Retry", style: .default, handler: { [weak self] _ in
+            self?.fetchStickerPacks()
+        }))
+        alert.addAction(UIAlertAction(title: "Cancel", style: .cancel))
+        present(alert, animated: true)
     }
 
     private func show(stickerPack: StickerPack, animated: Bool) {

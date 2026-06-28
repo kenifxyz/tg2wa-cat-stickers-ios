@@ -8,41 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		0E6359A4203E148200805DEB /* StickerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6359A3203E148200805DEB /* StickerCell.swift */; };
-		0ED9FF7C1D40D0E9C8C9F5F1 /* mm_020.webp in Resources */ = {isa = PBXBuildFile; fileRef = E7189646C790077064588F16 /* mm_020.webp */; };
-		11A6F749083210A84A903919 /* mm_040.webp in Resources */ = {isa = PBXBuildFile; fileRef = C948EC546D429A71B204CCF3 /* mm_040.webp */; };
-		12EB3F57727EEEE5170BEEC8 /* mm_011.webp in Resources */ = {isa = PBXBuildFile; fileRef = 3FD41585FA3E71DFC0E64AB6 /* mm_011.webp */; };
-		1A7B6189A775920274AC25CE /* mm_055.webp in Resources */ = {isa = PBXBuildFile; fileRef = 3CD8013682A8C3DD224E9E78 /* mm_055.webp */; };
-		1CB78AA6E2F726B0A510D8C6 /* mm_037.webp in Resources */ = {isa = PBXBuildFile; fileRef = DE7D81A3B78F3550C0D9506D /* mm_037.webp */; };
-		23905FB570B4DD29E6C92BEF /* mm_066.webp in Resources */ = {isa = PBXBuildFile; fileRef = DE3C580B82829D5E8EFD17D1 /* mm_066.webp */; };
-		2619B4F5707AD9FB9890BFBA /* mm_039.webp in Resources */ = {isa = PBXBuildFile; fileRef = CA01B59B504F1E5B4DF36652 /* mm_039.webp */; };
-		2E01FEA445609B386FAEF760 /* mm_018.webp in Resources */ = {isa = PBXBuildFile; fileRef = 9263A6E194E3F7C12C4BEE37 /* mm_018.webp */; };
-		35F108AC4A5F5A6C284D7A84 /* mm_005.webp in Resources */ = {isa = PBXBuildFile; fileRef = 4F4A61CCC8341A87FE313A3F /* mm_005.webp */; };
-		377E32F416200F73D11C60E6 /* mm_063.webp in Resources */ = {isa = PBXBuildFile; fileRef = 36A125D09DA08A6E8F0FA41F /* mm_063.webp */; };
-		39CF9DC4318FFCA14C7E862B /* mm_025.webp in Resources */ = {isa = PBXBuildFile; fileRef = F70DC7447FA0C765970ACE99 /* mm_025.webp */; };
-		41032B8365365F475D0654D8 /* mm_032.webp in Resources */ = {isa = PBXBuildFile; fileRef = 19C759E8F112E7DCCB5D8F8D /* mm_032.webp */; };
-		42401C01854F5750300E9F88 /* mm_050.webp in Resources */ = {isa = PBXBuildFile; fileRef = A5E527E5BCAC9E4BBEF12D84 /* mm_050.webp */; };
-		42ABE2C8B3F527265A3AB3A2 /* mm_007.webp in Resources */ = {isa = PBXBuildFile; fileRef = FEF7694B6C04D12012559A2D /* mm_007.webp */; };
-		442B5687AD5E654C73C7B33E /* mm_004.webp in Resources */ = {isa = PBXBuildFile; fileRef = 7D4AA4F2671EC233BB3B14BF /* mm_004.webp */; };
-		497DECE67614F4CAD21C5F4F /* mm_065.webp in Resources */ = {isa = PBXBuildFile; fileRef = 8BA33057225374CE6BD052C5 /* mm_065.webp */; };
-		52BC3EC45374F86666D8D1E7 /* mm_015.webp in Resources */ = {isa = PBXBuildFile; fileRef = 36F6EE998E8C6AA975775449 /* mm_015.webp */; };
-		53BA886C550955B8637D3350 /* mm_000.webp in Resources */ = {isa = PBXBuildFile; fileRef = 5833DAFDC2F4EF687C414FEB /* mm_000.webp */; };
-		54FDD68AC49EC2EAA25FB6D0 /* mm_060.webp in Resources */ = {isa = PBXBuildFile; fileRef = 36CAA6EA66FAA5B8871E839B /* mm_060.webp */; };
-		5C45B2A268C1AC80E48A982B /* mm_027.webp in Resources */ = {isa = PBXBuildFile; fileRef = 799A880EB10BFEEAE73F4243 /* mm_027.webp */; };
-		5DC0019B9440798DD2003667 /* mm_047.webp in Resources */ = {isa = PBXBuildFile; fileRef = 77576A1D773CA0AA6C6A16EB /* mm_047.webp */; };
-		5E40E326B4254A6E2820BACD /* tray_maomijiang.png in Resources */ = {isa = PBXBuildFile; fileRef = DCFEB5E00B23A8F14825C627 /* tray_maomijiang.png */; };
-		5F32836F10E660915EF6B84A /* mm_038.webp in Resources */ = {isa = PBXBuildFile; fileRef = 11DAA596FD34FFC92F0283FE /* mm_038.webp */; };
-		6B1407C30B475042094FF066 /* mm_052.webp in Resources */ = {isa = PBXBuildFile; fileRef = 6D7F0BD7A370A0D079956F2A /* mm_052.webp */; };
-		6FED9D089AA052CED5723C23 /* mm_019.webp in Resources */ = {isa = PBXBuildFile; fileRef = F4406F34360AB799D038042B /* mm_019.webp */; };
-		70E349386043DF7C5691A515 /* mm_049.webp in Resources */ = {isa = PBXBuildFile; fileRef = 7CCC4B5CB281F77F496D7928 /* mm_049.webp */; };
-		71F086CBAA2B2173D112CF68 /* mm_029.webp in Resources */ = {isa = PBXBuildFile; fileRef = 1C7A674BE53E177827F0965F /* mm_029.webp */; };
-		726351F901F86EB7D82299B4 /* mm_056.webp in Resources */ = {isa = PBXBuildFile; fileRef = 6B8141B01DD9FCA8E11A927D /* mm_056.webp */; };
-		741A22A83FE16E8F86EBBF64 /* mm_041.webp in Resources */ = {isa = PBXBuildFile; fileRef = 0A70C0F52771B92A1B5F3AF1 /* mm_041.webp */; };
-		77C00394B560905238F9D69F /* mm_054.webp in Resources */ = {isa = PBXBuildFile; fileRef = E9DB1E130FA8E558D8F7F7FC /* mm_054.webp */; };
-		77D9B8AE242B641AF7FA212F /* mm_062.webp in Resources */ = {isa = PBXBuildFile; fileRef = 309A7ED7BFD52973EC5FCBAC /* mm_062.webp */; };
-		7FD43F5EF76AE0D0761CCE2D /* mm_057.webp in Resources */ = {isa = PBXBuildFile; fileRef = 495ADFEA3566D4DBBDBDDCDE /* mm_057.webp */; };
-		834AF828A6513F5E5664DBF5 /* mm_014.webp in Resources */ = {isa = PBXBuildFile; fileRef = 177C900AFC2C457B1533F08D /* mm_014.webp */; };
-		83663FAB38ADD10D18334F1B /* mm_002.webp in Resources */ = {isa = PBXBuildFile; fileRef = 85C9505D84479C08343B9B17 /* mm_002.webp */; };
-		83DB57A14A3469791E491CE4 /* mm_023.webp in Resources */ = {isa = PBXBuildFile; fileRef = 4F8C74A2311F0D24F6AB0D98 /* mm_023.webp */; };
 		8A0A6DCD1FE9F1CE00110AF2 /* UIAlertController+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0A6DCC1FE9F1CE00110AF2 /* UIAlertController+Additions.swift */; };
 		8A18E2EE1FB3B47D0082201D /* YYImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A18E2E51FB3B47B0082201D /* YYImage.m */; };
 		8A18E2EF1FB3B47D0082201D /* YYAnimatedImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A18E2E81FB3B47C0082201D /* YYAnimatedImageView.m */; };
@@ -72,43 +37,7 @@
 		8ABEBD8421029767005F348C /* WebP.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ABEBD8321029766005F348C /* WebP.framework */; };
 		8ACB6A981FE9CB7700A564BB /* Limits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACB6A971FE9CB7700A564BB /* Limits.swift */; };
 		8ADA60761FD71F69006C9BBA /* AllStickerPacksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */; };
-		91E5596D7DC3808DDC07E749 /* mm_043.webp in Resources */ = {isa = PBXBuildFile; fileRef = FA8BD08E008CF90F1D7DB9EB /* mm_043.webp */; };
-		951890DEABE61298E79BD3D9 /* mm_017.webp in Resources */ = {isa = PBXBuildFile; fileRef = AE0232037504E4E5BB758F25 /* mm_017.webp */; };
-		9B30AED3253F6084479B3B8E /* mm_033.webp in Resources */ = {isa = PBXBuildFile; fileRef = DADC9F2535EAA9C820D10177 /* mm_033.webp */; };
-		A1EFE352E90A703FF29482AD /* mm_013.webp in Resources */ = {isa = PBXBuildFile; fileRef = 599A226F779E8416273DEAF7 /* mm_013.webp */; };
-		A2B6DDF294C68E103C3E64A8 /* mm_064.webp in Resources */ = {isa = PBXBuildFile; fileRef = 568E6348EFD59C752975A721 /* mm_064.webp */; };
-		A2DE11636EA1443EB5C26839 /* mm_053.webp in Resources */ = {isa = PBXBuildFile; fileRef = 491D51897DD8871567722452 /* mm_053.webp */; };
-		A55BF336133F4A15FC1831B5 /* mm_003.webp in Resources */ = {isa = PBXBuildFile; fileRef = DC072D3041A539F861C645BB /* mm_003.webp */; };
-		A8AE440375722534C26CECD8 /* mm_067.webp in Resources */ = {isa = PBXBuildFile; fileRef = B55689ED279EC54B8C8F2B51 /* mm_067.webp */; };
-		ABF89AB60541BB389A361F52 /* mm_030.webp in Resources */ = {isa = PBXBuildFile; fileRef = C048F530A49E84B323492D53 /* mm_030.webp */; };
-		B6010BF6BED9CA2E92E3E89A /* mm_009.webp in Resources */ = {isa = PBXBuildFile; fileRef = EC45A5AC89438826EE505D32 /* mm_009.webp */; };
-		B7D4DAA11CF9DBD51E4095D4 /* mm_044.webp in Resources */ = {isa = PBXBuildFile; fileRef = 86B66637D4E96DC11558F510 /* mm_044.webp */; };
-		B942C92C41F320E341B9B5B1 /* mm_051.webp in Resources */ = {isa = PBXBuildFile; fileRef = 2EEADC101387CC62F8D60207 /* mm_051.webp */; };
-		BCEEBD985949D4ACECABC0D7 /* mm_059.webp in Resources */ = {isa = PBXBuildFile; fileRef = 580E95332A0B0A9C0EEC121F /* mm_059.webp */; };
-		BCFE64E37FD998D37854F053 /* mm_012.webp in Resources */ = {isa = PBXBuildFile; fileRef = 94F185287657CBD6D380FAAF /* mm_012.webp */; };
-		BFFEAF36F895760809F2CBC2 /* mm_061.webp in Resources */ = {isa = PBXBuildFile; fileRef = BBE9AF944921410946B31415 /* mm_061.webp */; };
-		C07D806AFB73F05609260930 /* mm_058.webp in Resources */ = {isa = PBXBuildFile; fileRef = 504DD4286FA340C91EE076E3 /* mm_058.webp */; };
-		C0BD79642D0D9ED61FB664CE /* mm_006.webp in Resources */ = {isa = PBXBuildFile; fileRef = BFE17CA97C19AA0289A1282F /* mm_006.webp */; };
-		C1F5D44F3361B4EC0D9924E4 /* mm_010.webp in Resources */ = {isa = PBXBuildFile; fileRef = 4BCDBAE36B0F0F8C90A8A421 /* mm_010.webp */; };
-		C8B4B75945E10E905D51EDEE /* mm_036.webp in Resources */ = {isa = PBXBuildFile; fileRef = C0C0DCD67B9B543013C6086B /* mm_036.webp */; };
-		C9202F9A053466389F1BD721 /* mm_021.webp in Resources */ = {isa = PBXBuildFile; fileRef = AA1CA3E80A1EA3A0F1AB3B47 /* mm_021.webp */; };
-		CA43CADA3EAF74A2FFCF11E2 /* mm_001.webp in Resources */ = {isa = PBXBuildFile; fileRef = 86C4343C922295A63280B058 /* mm_001.webp */; };
-		CA6417B7CC9A809F9FED5656 /* mm_034.webp in Resources */ = {isa = PBXBuildFile; fileRef = C1B7CCD6A32CAD73AD87FE3C /* mm_034.webp */; };
-		CBA411754D69FD4C61F803F3 /* mm_016.webp in Resources */ = {isa = PBXBuildFile; fileRef = FC3A83BECD617111745ADB4D /* mm_016.webp */; };
-		D35DB3A7E40E3DCC688E4A50 /* sticker_packs.wasticker in Resources */ = {isa = PBXBuildFile; fileRef = 41DC931D29424ED1D6D21B6C /* sticker_packs.wasticker */; };
-		DA88685FB93ABD99A63572F8 /* mm_069.webp in Resources */ = {isa = PBXBuildFile; fileRef = 909169233BCD2A2E29FDC3CB /* mm_069.webp */; };
-		E197E76602A397A914A56D72 /* mm_024.webp in Resources */ = {isa = PBXBuildFile; fileRef = 8B6903AFB3AFCE03784433D7 /* mm_024.webp */; };
-		E300C3A92B8DAD0CE6046133 /* mm_022.webp in Resources */ = {isa = PBXBuildFile; fileRef = 8E71C5A439B45A36A69BD8CC /* mm_022.webp */; };
-		E9FD1F46D23377AAFE4C7E05 /* mm_026.webp in Resources */ = {isa = PBXBuildFile; fileRef = DC78635B8D25AFB26723F518 /* mm_026.webp */; };
-		F2C71337C644814CB3EB09BE /* mm_046.webp in Resources */ = {isa = PBXBuildFile; fileRef = 94BAECE6F65D469D57C2228C /* mm_046.webp */; };
-		F4513008A59B10C55FC7D1BA /* mm_031.webp in Resources */ = {isa = PBXBuildFile; fileRef = 03C6159098BFF1BCC4523FF6 /* mm_031.webp */; };
-		F69A49FF14A58B81C625733B /* mm_028.webp in Resources */ = {isa = PBXBuildFile; fileRef = 73926CFAB682E34E71B3A7CF /* mm_028.webp */; };
-		F69C44616BA4394D37C73266 /* mm_008.webp in Resources */ = {isa = PBXBuildFile; fileRef = 24D14D6E17AE8109017B8E37 /* mm_008.webp */; };
-		F8963007C63088A2B51877AA /* mm_048.webp in Resources */ = {isa = PBXBuildFile; fileRef = 26F3EA65AF34F0E3A03A3224 /* mm_048.webp */; };
-		FA256703DF6C70F9B9DCBEB6 /* mm_068.webp in Resources */ = {isa = PBXBuildFile; fileRef = 64B3389C041572289C6C303B /* mm_068.webp */; };
-		FBAEE27A2C78A9D9AF09F46F /* mm_042.webp in Resources */ = {isa = PBXBuildFile; fileRef = DAB5219EF582763145D57B7E /* mm_042.webp */; };
-		FC56F56A93B765C4F9CC1ABB /* mm_035.webp in Resources */ = {isa = PBXBuildFile; fileRef = E338E6E79D2E1FF2BDF71ADB /* mm_035.webp */; };
-		FF766BDA24F27BC4DF37EA2B /* mm_045.webp in Resources */ = {isa = PBXBuildFile; fileRef = 153E16D58A28AC13E499EC05 /* mm_045.webp */; };
+		BF28B5A36E0F04D785DAB944 /* RemoteStickerLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83FE91AC4BE3EEA4E114CC6A /* RemoteStickerLoader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -125,45 +54,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		03C6159098BFF1BCC4523FF6 /* mm_031.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_031.webp; sourceTree = "<group>"; };
-		0A70C0F52771B92A1B5F3AF1 /* mm_041.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_041.webp; sourceTree = "<group>"; };
 		0E6359A3203E148200805DEB /* StickerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StickerCell.swift; sourceTree = "<group>"; };
-		11DAA596FD34FFC92F0283FE /* mm_038.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_038.webp; sourceTree = "<group>"; };
-		153E16D58A28AC13E499EC05 /* mm_045.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_045.webp; sourceTree = "<group>"; };
-		177C900AFC2C457B1533F08D /* mm_014.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_014.webp; sourceTree = "<group>"; };
-		19C759E8F112E7DCCB5D8F8D /* mm_032.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_032.webp; sourceTree = "<group>"; };
-		1C7A674BE53E177827F0965F /* mm_029.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_029.webp; sourceTree = "<group>"; };
-		24D14D6E17AE8109017B8E37 /* mm_008.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_008.webp; sourceTree = "<group>"; };
-		26F3EA65AF34F0E3A03A3224 /* mm_048.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_048.webp; sourceTree = "<group>"; };
-		2EEADC101387CC62F8D60207 /* mm_051.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_051.webp; sourceTree = "<group>"; };
-		309A7ED7BFD52973EC5FCBAC /* mm_062.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_062.webp; sourceTree = "<group>"; };
-		36A125D09DA08A6E8F0FA41F /* mm_063.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_063.webp; sourceTree = "<group>"; };
-		36CAA6EA66FAA5B8871E839B /* mm_060.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_060.webp; sourceTree = "<group>"; };
-		36F6EE998E8C6AA975775449 /* mm_015.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_015.webp; sourceTree = "<group>"; };
-		3CD8013682A8C3DD224E9E78 /* mm_055.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_055.webp; sourceTree = "<group>"; };
-		3FD41585FA3E71DFC0E64AB6 /* mm_011.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_011.webp; sourceTree = "<group>"; };
-		41DC931D29424ED1D6D21B6C /* sticker_packs.wasticker */ = {isa = PBXFileReference; includeInIndex = 1; path = sticker_packs.wasticker; sourceTree = "<group>"; };
-		491D51897DD8871567722452 /* mm_053.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_053.webp; sourceTree = "<group>"; };
-		495ADFEA3566D4DBBDBDDCDE /* mm_057.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_057.webp; sourceTree = "<group>"; };
-		4BCDBAE36B0F0F8C90A8A421 /* mm_010.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_010.webp; sourceTree = "<group>"; };
-		4F4A61CCC8341A87FE313A3F /* mm_005.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_005.webp; sourceTree = "<group>"; };
-		4F8C74A2311F0D24F6AB0D98 /* mm_023.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_023.webp; sourceTree = "<group>"; };
-		504DD4286FA340C91EE076E3 /* mm_058.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_058.webp; sourceTree = "<group>"; };
-		568E6348EFD59C752975A721 /* mm_064.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_064.webp; sourceTree = "<group>"; };
-		580E95332A0B0A9C0EEC121F /* mm_059.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_059.webp; sourceTree = "<group>"; };
-		5833DAFDC2F4EF687C414FEB /* mm_000.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_000.webp; sourceTree = "<group>"; };
-		599A226F779E8416273DEAF7 /* mm_013.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_013.webp; sourceTree = "<group>"; };
-		64B3389C041572289C6C303B /* mm_068.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_068.webp; sourceTree = "<group>"; };
-		6B8141B01DD9FCA8E11A927D /* mm_056.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_056.webp; sourceTree = "<group>"; };
-		6D7F0BD7A370A0D079956F2A /* mm_052.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_052.webp; sourceTree = "<group>"; };
-		73926CFAB682E34E71B3A7CF /* mm_028.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_028.webp; sourceTree = "<group>"; };
-		77576A1D773CA0AA6C6A16EB /* mm_047.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_047.webp; sourceTree = "<group>"; };
-		799A880EB10BFEEAE73F4243 /* mm_027.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_027.webp; sourceTree = "<group>"; };
-		7CCC4B5CB281F77F496D7928 /* mm_049.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_049.webp; sourceTree = "<group>"; };
-		7D4AA4F2671EC233BB3B14BF /* mm_004.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_004.webp; sourceTree = "<group>"; };
-		85C9505D84479C08343B9B17 /* mm_002.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_002.webp; sourceTree = "<group>"; };
-		86B66637D4E96DC11558F510 /* mm_044.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_044.webp; sourceTree = "<group>"; };
-		86C4343C922295A63280B058 /* mm_001.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_001.webp; sourceTree = "<group>"; };
+		83FE91AC4BE3EEA4E114CC6A /* RemoteStickerLoader.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = RemoteStickerLoader.swift; sourceTree = "<group>"; };
 		8A0A6DCC1FE9F1CE00110AF2 /* UIAlertController+Additions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIAlertController+Additions.swift"; sourceTree = "<group>"; };
 		8A18E2E31FB3B47A0082201D /* WAStickersThirdParty-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WAStickersThirdParty-Bridging-Header.h"; sourceTree = "<group>"; };
 		8A18E2E41FB3B47B0082201D /* YYImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYImage.h; sourceTree = "<group>"; };
@@ -209,40 +101,6 @@
 		8ABEBD8321029766005F348C /* WebP.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WebP.framework; sourceTree = "<group>"; };
 		8ACB6A971FE9CB7700A564BB /* Limits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Limits.swift; sourceTree = "<group>"; };
 		8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllStickerPacksViewController.swift; sourceTree = "<group>"; };
-		8B6903AFB3AFCE03784433D7 /* mm_024.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_024.webp; sourceTree = "<group>"; };
-		8BA33057225374CE6BD052C5 /* mm_065.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_065.webp; sourceTree = "<group>"; };
-		8E71C5A439B45A36A69BD8CC /* mm_022.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_022.webp; sourceTree = "<group>"; };
-		909169233BCD2A2E29FDC3CB /* mm_069.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_069.webp; sourceTree = "<group>"; };
-		9263A6E194E3F7C12C4BEE37 /* mm_018.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_018.webp; sourceTree = "<group>"; };
-		94BAECE6F65D469D57C2228C /* mm_046.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_046.webp; sourceTree = "<group>"; };
-		94F185287657CBD6D380FAAF /* mm_012.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_012.webp; sourceTree = "<group>"; };
-		A5E527E5BCAC9E4BBEF12D84 /* mm_050.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_050.webp; sourceTree = "<group>"; };
-		AA1CA3E80A1EA3A0F1AB3B47 /* mm_021.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_021.webp; sourceTree = "<group>"; };
-		AE0232037504E4E5BB758F25 /* mm_017.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_017.webp; sourceTree = "<group>"; };
-		B55689ED279EC54B8C8F2B51 /* mm_067.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_067.webp; sourceTree = "<group>"; };
-		BBE9AF944921410946B31415 /* mm_061.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_061.webp; sourceTree = "<group>"; };
-		BFE17CA97C19AA0289A1282F /* mm_006.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_006.webp; sourceTree = "<group>"; };
-		C048F530A49E84B323492D53 /* mm_030.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_030.webp; sourceTree = "<group>"; };
-		C0C0DCD67B9B543013C6086B /* mm_036.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_036.webp; sourceTree = "<group>"; };
-		C1B7CCD6A32CAD73AD87FE3C /* mm_034.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_034.webp; sourceTree = "<group>"; };
-		C948EC546D429A71B204CCF3 /* mm_040.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_040.webp; sourceTree = "<group>"; };
-		CA01B59B504F1E5B4DF36652 /* mm_039.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_039.webp; sourceTree = "<group>"; };
-		DAB5219EF582763145D57B7E /* mm_042.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_042.webp; sourceTree = "<group>"; };
-		DADC9F2535EAA9C820D10177 /* mm_033.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_033.webp; sourceTree = "<group>"; };
-		DC072D3041A539F861C645BB /* mm_003.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_003.webp; sourceTree = "<group>"; };
-		DC78635B8D25AFB26723F518 /* mm_026.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_026.webp; sourceTree = "<group>"; };
-		DCFEB5E00B23A8F14825C627 /* tray_maomijiang.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = tray_maomijiang.png; sourceTree = "<group>"; };
-		DE3C580B82829D5E8EFD17D1 /* mm_066.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_066.webp; sourceTree = "<group>"; };
-		DE7D81A3B78F3550C0D9506D /* mm_037.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_037.webp; sourceTree = "<group>"; };
-		E338E6E79D2E1FF2BDF71ADB /* mm_035.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_035.webp; sourceTree = "<group>"; };
-		E7189646C790077064588F16 /* mm_020.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_020.webp; sourceTree = "<group>"; };
-		E9DB1E130FA8E558D8F7F7FC /* mm_054.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_054.webp; sourceTree = "<group>"; };
-		EC45A5AC89438826EE505D32 /* mm_009.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_009.webp; sourceTree = "<group>"; };
-		F4406F34360AB799D038042B /* mm_019.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_019.webp; sourceTree = "<group>"; };
-		F70DC7447FA0C765970ACE99 /* mm_025.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_025.webp; sourceTree = "<group>"; };
-		FA8BD08E008CF90F1D7DB9EB /* mm_043.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_043.webp; sourceTree = "<group>"; };
-		FC3A83BECD617111745ADB4D /* mm_016.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_016.webp; sourceTree = "<group>"; };
-		FEF7694B6C04D12012559A2D /* mm_007.webp */ = {isa = PBXFileReference; includeInIndex = 1; path = mm_007.webp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -310,78 +168,7 @@
 				8A22EE0C1F9A9F40003A7F21 /* LaunchScreen.storyboard */,
 				8A22EE0F1F9A9F40003A7F21 /* Info.plist */,
 				8A18E2E31FB3B47A0082201D /* WAStickersThirdParty-Bridging-Header.h */,
-				5833DAFDC2F4EF687C414FEB /* mm_000.webp */,
-				86C4343C922295A63280B058 /* mm_001.webp */,
-				85C9505D84479C08343B9B17 /* mm_002.webp */,
-				DC072D3041A539F861C645BB /* mm_003.webp */,
-				7D4AA4F2671EC233BB3B14BF /* mm_004.webp */,
-				4F4A61CCC8341A87FE313A3F /* mm_005.webp */,
-				BFE17CA97C19AA0289A1282F /* mm_006.webp */,
-				FEF7694B6C04D12012559A2D /* mm_007.webp */,
-				24D14D6E17AE8109017B8E37 /* mm_008.webp */,
-				EC45A5AC89438826EE505D32 /* mm_009.webp */,
-				4BCDBAE36B0F0F8C90A8A421 /* mm_010.webp */,
-				3FD41585FA3E71DFC0E64AB6 /* mm_011.webp */,
-				94F185287657CBD6D380FAAF /* mm_012.webp */,
-				599A226F779E8416273DEAF7 /* mm_013.webp */,
-				177C900AFC2C457B1533F08D /* mm_014.webp */,
-				36F6EE998E8C6AA975775449 /* mm_015.webp */,
-				FC3A83BECD617111745ADB4D /* mm_016.webp */,
-				AE0232037504E4E5BB758F25 /* mm_017.webp */,
-				9263A6E194E3F7C12C4BEE37 /* mm_018.webp */,
-				F4406F34360AB799D038042B /* mm_019.webp */,
-				E7189646C790077064588F16 /* mm_020.webp */,
-				AA1CA3E80A1EA3A0F1AB3B47 /* mm_021.webp */,
-				8E71C5A439B45A36A69BD8CC /* mm_022.webp */,
-				4F8C74A2311F0D24F6AB0D98 /* mm_023.webp */,
-				8B6903AFB3AFCE03784433D7 /* mm_024.webp */,
-				F70DC7447FA0C765970ACE99 /* mm_025.webp */,
-				DC78635B8D25AFB26723F518 /* mm_026.webp */,
-				799A880EB10BFEEAE73F4243 /* mm_027.webp */,
-				73926CFAB682E34E71B3A7CF /* mm_028.webp */,
-				1C7A674BE53E177827F0965F /* mm_029.webp */,
-				C048F530A49E84B323492D53 /* mm_030.webp */,
-				03C6159098BFF1BCC4523FF6 /* mm_031.webp */,
-				19C759E8F112E7DCCB5D8F8D /* mm_032.webp */,
-				DADC9F2535EAA9C820D10177 /* mm_033.webp */,
-				C1B7CCD6A32CAD73AD87FE3C /* mm_034.webp */,
-				E338E6E79D2E1FF2BDF71ADB /* mm_035.webp */,
-				C0C0DCD67B9B543013C6086B /* mm_036.webp */,
-				DE7D81A3B78F3550C0D9506D /* mm_037.webp */,
-				11DAA596FD34FFC92F0283FE /* mm_038.webp */,
-				CA01B59B504F1E5B4DF36652 /* mm_039.webp */,
-				C948EC546D429A71B204CCF3 /* mm_040.webp */,
-				0A70C0F52771B92A1B5F3AF1 /* mm_041.webp */,
-				DAB5219EF582763145D57B7E /* mm_042.webp */,
-				FA8BD08E008CF90F1D7DB9EB /* mm_043.webp */,
-				86B66637D4E96DC11558F510 /* mm_044.webp */,
-				153E16D58A28AC13E499EC05 /* mm_045.webp */,
-				94BAECE6F65D469D57C2228C /* mm_046.webp */,
-				77576A1D773CA0AA6C6A16EB /* mm_047.webp */,
-				26F3EA65AF34F0E3A03A3224 /* mm_048.webp */,
-				7CCC4B5CB281F77F496D7928 /* mm_049.webp */,
-				A5E527E5BCAC9E4BBEF12D84 /* mm_050.webp */,
-				2EEADC101387CC62F8D60207 /* mm_051.webp */,
-				6D7F0BD7A370A0D079956F2A /* mm_052.webp */,
-				491D51897DD8871567722452 /* mm_053.webp */,
-				E9DB1E130FA8E558D8F7F7FC /* mm_054.webp */,
-				3CD8013682A8C3DD224E9E78 /* mm_055.webp */,
-				6B8141B01DD9FCA8E11A927D /* mm_056.webp */,
-				495ADFEA3566D4DBBDBDDCDE /* mm_057.webp */,
-				504DD4286FA340C91EE076E3 /* mm_058.webp */,
-				580E95332A0B0A9C0EEC121F /* mm_059.webp */,
-				36CAA6EA66FAA5B8871E839B /* mm_060.webp */,
-				BBE9AF944921410946B31415 /* mm_061.webp */,
-				309A7ED7BFD52973EC5FCBAC /* mm_062.webp */,
-				36A125D09DA08A6E8F0FA41F /* mm_063.webp */,
-				568E6348EFD59C752975A721 /* mm_064.webp */,
-				8BA33057225374CE6BD052C5 /* mm_065.webp */,
-				DE3C580B82829D5E8EFD17D1 /* mm_066.webp */,
-				B55689ED279EC54B8C8F2B51 /* mm_067.webp */,
-				64B3389C041572289C6C303B /* mm_068.webp */,
-				909169233BCD2A2E29FDC3CB /* mm_069.webp */,
-				DCFEB5E00B23A8F14825C627 /* tray_maomijiang.png */,
-				41DC931D29424ED1D6D21B6C /* sticker_packs.wasticker */,
+				83FE91AC4BE3EEA4E114CC6A /* RemoteStickerLoader.swift */,
 			);
 			path = WAStickersThirdParty;
 			sourceTree = "<group>";
@@ -501,78 +288,6 @@
 				8A22EE0B1F9A9F40003A7F21 /* Assets.xcassets in Resources */,
 				8A27F1311FD9E987001B2BBD /* LinkTableViewCell.xib in Resources */,
 				8A22EE091F9A9F40003A7F21 /* Main.storyboard in Resources */,
-				53BA886C550955B8637D3350 /* mm_000.webp in Resources */,
-				CA43CADA3EAF74A2FFCF11E2 /* mm_001.webp in Resources */,
-				83663FAB38ADD10D18334F1B /* mm_002.webp in Resources */,
-				A55BF336133F4A15FC1831B5 /* mm_003.webp in Resources */,
-				442B5687AD5E654C73C7B33E /* mm_004.webp in Resources */,
-				35F108AC4A5F5A6C284D7A84 /* mm_005.webp in Resources */,
-				C0BD79642D0D9ED61FB664CE /* mm_006.webp in Resources */,
-				42ABE2C8B3F527265A3AB3A2 /* mm_007.webp in Resources */,
-				F69C44616BA4394D37C73266 /* mm_008.webp in Resources */,
-				B6010BF6BED9CA2E92E3E89A /* mm_009.webp in Resources */,
-				C1F5D44F3361B4EC0D9924E4 /* mm_010.webp in Resources */,
-				12EB3F57727EEEE5170BEEC8 /* mm_011.webp in Resources */,
-				BCFE64E37FD998D37854F053 /* mm_012.webp in Resources */,
-				A1EFE352E90A703FF29482AD /* mm_013.webp in Resources */,
-				834AF828A6513F5E5664DBF5 /* mm_014.webp in Resources */,
-				52BC3EC45374F86666D8D1E7 /* mm_015.webp in Resources */,
-				CBA411754D69FD4C61F803F3 /* mm_016.webp in Resources */,
-				951890DEABE61298E79BD3D9 /* mm_017.webp in Resources */,
-				2E01FEA445609B386FAEF760 /* mm_018.webp in Resources */,
-				6FED9D089AA052CED5723C23 /* mm_019.webp in Resources */,
-				0ED9FF7C1D40D0E9C8C9F5F1 /* mm_020.webp in Resources */,
-				C9202F9A053466389F1BD721 /* mm_021.webp in Resources */,
-				E300C3A92B8DAD0CE6046133 /* mm_022.webp in Resources */,
-				83DB57A14A3469791E491CE4 /* mm_023.webp in Resources */,
-				E197E76602A397A914A56D72 /* mm_024.webp in Resources */,
-				39CF9DC4318FFCA14C7E862B /* mm_025.webp in Resources */,
-				E9FD1F46D23377AAFE4C7E05 /* mm_026.webp in Resources */,
-				5C45B2A268C1AC80E48A982B /* mm_027.webp in Resources */,
-				F69A49FF14A58B81C625733B /* mm_028.webp in Resources */,
-				71F086CBAA2B2173D112CF68 /* mm_029.webp in Resources */,
-				ABF89AB60541BB389A361F52 /* mm_030.webp in Resources */,
-				F4513008A59B10C55FC7D1BA /* mm_031.webp in Resources */,
-				41032B8365365F475D0654D8 /* mm_032.webp in Resources */,
-				9B30AED3253F6084479B3B8E /* mm_033.webp in Resources */,
-				CA6417B7CC9A809F9FED5656 /* mm_034.webp in Resources */,
-				FC56F56A93B765C4F9CC1ABB /* mm_035.webp in Resources */,
-				C8B4B75945E10E905D51EDEE /* mm_036.webp in Resources */,
-				1CB78AA6E2F726B0A510D8C6 /* mm_037.webp in Resources */,
-				5F32836F10E660915EF6B84A /* mm_038.webp in Resources */,
-				2619B4F5707AD9FB9890BFBA /* mm_039.webp in Resources */,
-				11A6F749083210A84A903919 /* mm_040.webp in Resources */,
-				741A22A83FE16E8F86EBBF64 /* mm_041.webp in Resources */,
-				FBAEE27A2C78A9D9AF09F46F /* mm_042.webp in Resources */,
-				91E5596D7DC3808DDC07E749 /* mm_043.webp in Resources */,
-				B7D4DAA11CF9DBD51E4095D4 /* mm_044.webp in Resources */,
-				FF766BDA24F27BC4DF37EA2B /* mm_045.webp in Resources */,
-				F2C71337C644814CB3EB09BE /* mm_046.webp in Resources */,
-				5DC0019B9440798DD2003667 /* mm_047.webp in Resources */,
-				F8963007C63088A2B51877AA /* mm_048.webp in Resources */,
-				70E349386043DF7C5691A515 /* mm_049.webp in Resources */,
-				42401C01854F5750300E9F88 /* mm_050.webp in Resources */,
-				B942C92C41F320E341B9B5B1 /* mm_051.webp in Resources */,
-				6B1407C30B475042094FF066 /* mm_052.webp in Resources */,
-				A2DE11636EA1443EB5C26839 /* mm_053.webp in Resources */,
-				77C00394B560905238F9D69F /* mm_054.webp in Resources */,
-				1A7B6189A775920274AC25CE /* mm_055.webp in Resources */,
-				726351F901F86EB7D82299B4 /* mm_056.webp in Resources */,
-				7FD43F5EF76AE0D0761CCE2D /* mm_057.webp in Resources */,
-				C07D806AFB73F05609260930 /* mm_058.webp in Resources */,
-				BCEEBD985949D4ACECABC0D7 /* mm_059.webp in Resources */,
-				54FDD68AC49EC2EAA25FB6D0 /* mm_060.webp in Resources */,
-				BFFEAF36F895760809F2CBC2 /* mm_061.webp in Resources */,
-				77D9B8AE242B641AF7FA212F /* mm_062.webp in Resources */,
-				377E32F416200F73D11C60E6 /* mm_063.webp in Resources */,
-				A2B6DDF294C68E103C3E64A8 /* mm_064.webp in Resources */,
-				497DECE67614F4CAD21C5F4F /* mm_065.webp in Resources */,
-				23905FB570B4DD29E6C92BEF /* mm_066.webp in Resources */,
-				A8AE440375722534C26CECD8 /* mm_067.webp in Resources */,
-				FA256703DF6C70F9B9DCBEB6 /* mm_068.webp in Resources */,
-				DA88685FB93ABD99A63572F8 /* mm_069.webp in Resources */,
-				5E40E326B4254A6E2820BACD /* tray_maomijiang.png in Resources */,
-				D35DB3A7E40E3DCC688E4A50 /* sticker_packs.wasticker in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -606,6 +321,7 @@
 				8A18E2F21FB3B47D0082201D /* YYImageCoder.m in Sources */,
 				0E6359A4203E148200805DEB /* StickerCell.swift in Sources */,
 				8AB5951B20C1FC440076625E /* ImageData.swift in Sources */,
+				BF28B5A36E0F04D785DAB944 /* RemoteStickerLoader.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

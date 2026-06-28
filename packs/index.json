@@ -1,193 +1,194 @@
 {
+  "format_version": 1,
   "ios_app_store_link": "",
   "android_play_store_link": "",
-  "sticker_packs": [
+  "packs": [
     {
       "identifier": "maomijiang_anim_1",
       "name": "Maomijiang Cats 1",
-      "publisher": "Kenneth (via tg2wa)",
+      "publisher": "Kenneth",
+      "animated": true,
       "tray_image_file": "tray_maomijiang.png",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "animated_sticker_pack": true,
       "stickers": [
         {
-          "image_file": "mm_000.webp",
+          "image_file": "anim1_00.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_001.webp",
+          "image_file": "anim1_01.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_002.webp",
+          "image_file": "anim1_02.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_003.webp",
+          "image_file": "anim1_03.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_004.webp",
+          "image_file": "anim1_04.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_005.webp",
+          "image_file": "anim1_05.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_006.webp",
+          "image_file": "anim1_06.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_007.webp",
+          "image_file": "anim1_07.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_008.webp",
+          "image_file": "anim1_08.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_009.webp",
+          "image_file": "anim1_09.webp",
           "emojis": [
             "🤪"
           ]
         },
         {
-          "image_file": "mm_010.webp",
+          "image_file": "anim1_10.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_011.webp",
+          "image_file": "anim1_11.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_012.webp",
+          "image_file": "anim1_12.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_013.webp",
+          "image_file": "anim1_13.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_015.webp",
+          "image_file": "anim1_14.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_016.webp",
+          "image_file": "anim1_15.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_017.webp",
+          "image_file": "anim1_16.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_018.webp",
+          "image_file": "anim1_17.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_019.webp",
+          "image_file": "anim1_18.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_020.webp",
+          "image_file": "anim1_19.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_021.webp",
+          "image_file": "anim1_20.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_022.webp",
+          "image_file": "anim1_21.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_023.webp",
+          "image_file": "anim1_22.webp",
           "emojis": [
             "🐱"
           ]
         },
         {
-          "image_file": "mm_025.webp",
+          "image_file": "anim1_23.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_026.webp",
+          "image_file": "anim1_24.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_027.webp",
+          "image_file": "anim1_25.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_028.webp",
+          "image_file": "anim1_26.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_029.webp",
+          "image_file": "anim1_27.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_030.webp",
+          "image_file": "anim1_28.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_031.webp",
+          "image_file": "anim1_29.webp",
           "emojis": [
             "🌟"
           ]
@@ -197,189 +198,189 @@
     {
       "identifier": "maomijiang_anim_2",
       "name": "Maomijiang Cats 2",
-      "publisher": "Kenneth (via tg2wa)",
+      "publisher": "Kenneth",
+      "animated": true,
       "tray_image_file": "tray_maomijiang.png",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "animated_sticker_pack": true,
       "stickers": [
         {
-          "image_file": "mm_032.webp",
+          "image_file": "anim2_00.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_033.webp",
+          "image_file": "anim2_01.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_034.webp",
+          "image_file": "anim2_02.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_035.webp",
+          "image_file": "anim2_03.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_036.webp",
+          "image_file": "anim2_04.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_037.webp",
+          "image_file": "anim2_05.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_038.webp",
+          "image_file": "anim2_06.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_039.webp",
+          "image_file": "anim2_07.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_040.webp",
+          "image_file": "anim2_08.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_041.webp",
+          "image_file": "anim2_09.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_042.webp",
+          "image_file": "anim2_10.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_043.webp",
+          "image_file": "anim2_11.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_044.webp",
+          "image_file": "anim2_12.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_045.webp",
+          "image_file": "anim2_13.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_047.webp",
+          "image_file": "anim2_14.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_048.webp",
+          "image_file": "anim2_15.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_049.webp",
+          "image_file": "anim2_16.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_050.webp",
+          "image_file": "anim2_17.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_051.webp",
+          "image_file": "anim2_18.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_052.webp",
+          "image_file": "anim2_19.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_054.webp",
+          "image_file": "anim2_20.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_055.webp",
+          "image_file": "anim2_21.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_056.webp",
+          "image_file": "anim2_22.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_057.webp",
+          "image_file": "anim2_23.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_058.webp",
+          "image_file": "anim2_24.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_059.webp",
+          "image_file": "anim2_25.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_060.webp",
+          "image_file": "anim2_26.webp",
           "emojis": [
             "🥰"
           ]
         },
         {
-          "image_file": "mm_061.webp",
+          "image_file": "anim2_27.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_062.webp",
+          "image_file": "anim2_28.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_063.webp",
+          "image_file": "anim2_29.webp",
           "emojis": [
             "🤯"
           ]
@@ -389,39 +390,39 @@
     {
       "identifier": "maomijiang_anim_3",
       "name": "Maomijiang Cats 3",
-      "publisher": "Kenneth (via tg2wa)",
+      "publisher": "Kenneth",
+      "animated": true,
       "tray_image_file": "tray_maomijiang.png",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "animated_sticker_pack": true,
       "stickers": [
         {
-          "image_file": "mm_064.webp",
+          "image_file": "anim3_00.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_065.webp",
+          "image_file": "anim3_01.webp",
           "emojis": [
             "🐱"
           ]
         },
         {
-          "image_file": "mm_066.webp",
+          "image_file": "anim3_02.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_067.webp",
+          "image_file": "anim3_03.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_069.webp",
+          "image_file": "anim3_04.webp",
           "emojis": [
             "🌟"
           ]
@@ -431,39 +432,39 @@
     {
       "identifier": "maomijiang_static",
       "name": "Maomijiang Cats Static",
-      "publisher": "Kenneth (via tg2wa)",
+      "publisher": "Kenneth",
+      "animated": false,
       "tray_image_file": "tray_maomijiang.png",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "animated_sticker_pack": false,
       "stickers": [
         {
-          "image_file": "mm_014.webp",
+          "image_file": "static_00.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_024.webp",
+          "image_file": "static_01.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_046.webp",
+          "image_file": "static_02.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_053.webp",
+          "image_file": "static_03.webp",
           "emojis": [
             "🌟"
           ]
         },
         {
-          "image_file": "mm_068.webp",
+          "image_file": "static_04.webp",
           "emojis": [
             "🌟"
           ]
