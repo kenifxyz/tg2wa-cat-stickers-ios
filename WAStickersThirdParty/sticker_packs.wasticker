@@ -1,0 +1,474 @@
+{
+  "ios_app_store_link": "",
+  "android_play_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "maomijiang_anim_1",
+      "name": "Maomijiang Cats 1",
+      "publisher": "Kenneth (via tg2wa)",
+      "tray_image_file": "tray_maomijiang.png",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "mm_000.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_001.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_002.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_003.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_004.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_005.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_006.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_007.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_008.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_009.webp",
+          "emojis": [
+            "🤪"
+          ]
+        },
+        {
+          "image_file": "mm_010.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_011.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_012.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_013.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_015.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_016.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_017.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_018.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_019.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_020.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_021.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_022.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_023.webp",
+          "emojis": [
+            "🐱"
+          ]
+        },
+        {
+          "image_file": "mm_025.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_026.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_027.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_028.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_029.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_030.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_031.webp",
+          "emojis": [
+            "🌟"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "maomijiang_anim_2",
+      "name": "Maomijiang Cats 2",
+      "publisher": "Kenneth (via tg2wa)",
+      "tray_image_file": "tray_maomijiang.png",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "mm_032.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_033.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_034.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_035.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_036.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_037.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_038.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_039.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_040.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_041.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_042.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_043.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_044.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_045.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_047.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_048.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_049.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_050.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_051.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_052.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_054.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_055.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_056.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_057.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_058.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_059.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_060.webp",
+          "emojis": [
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "mm_061.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_062.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_063.webp",
+          "emojis": [
+            "🤯"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "maomijiang_anim_3",
+      "name": "Maomijiang Cats 3",
+      "publisher": "Kenneth (via tg2wa)",
+      "tray_image_file": "tray_maomijiang.png",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "mm_064.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_065.webp",
+          "emojis": [
+            "🐱"
+          ]
+        },
+        {
+          "image_file": "mm_066.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_067.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_069.webp",
+          "emojis": [
+            "🌟"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "maomijiang_static",
+      "name": "Maomijiang Cats Static",
+      "publisher": "Kenneth (via tg2wa)",
+      "tray_image_file": "tray_maomijiang.png",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "mm_014.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_024.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_046.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_053.webp",
+          "emojis": [
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "mm_068.webp",
+          "emojis": [
+            "🌟"
+          ]
+        }
+      ]
+    }
+  ]
+}
